@@ -3,5 +3,3 @@
 Park, Croset, et al. 2022
 
 Scripts for scRNA-seq analysis
-
-VC - FEB 2022
